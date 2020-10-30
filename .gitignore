@@ -1,0 +1,28 @@
+### Logs Files ###
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+### Dependency Files ###
+node_modules/
+jspm_packages/
+
+### TypeScript Declaration Files ###
+typings/
+
+### Nuxt Build Files ###
+.nuxt/
+
+### Nuxt Generate Files ###
+dist/
+
+### IDE / Editor Files ###
+.idea/
+
+### Service Worker Files ###
+sw.*
+
+### macOS Files ###
+.DS_Store
